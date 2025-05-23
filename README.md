@@ -1,26 +1,33 @@
-# network-port-scanner
-A Python-based tool for scanning active hosts and identifying open ports on a network, developed during a cybersecurity internship.
 # Network and Port Scanner 🛡️
 
-This project is a Network and Port Scanner developed during my 3-month cybersecurity internship at Threat Prism One Stop AI. It scans local or custom IP ranges and identifies open ports, helping with reconnaissance and vulnerability assessment.
-
-## 📌 Project Features
-- Scans a user-defined IP address or range
-- Detects active hosts on the network
-- Identifies open ports using socket programming
-- Outputs clean, user-friendly results
-
-## 🛠️ Technologies Used
-- Python
-- `socket` module
-- `ipaddress` and `subprocess` libraries
-
-## 📄 Documentation
-Full report and technical details are available in [Network_Port_Scanner_Report.pdf](./Network_Port_Scanner_Report.pdf).
-
-## 🚀 Impact
-Improved early-stage reconnaissance processes by automating IP and port discovery, allowing faster vulnerability assessments during internships.
+A Python-based tool developed during my 3-month cybersecurity internship at Threat Prism One Stop AI. It scans local or custom IP ranges to identify active hosts and open ports, aiding reconnaissance and vulnerability assessments.
 
 ---
 
-Feel free to review the attached report for details. If you like the project or have feedback, feel free to reach out!
+## 📌 Project Features
+- Scan a user-defined IP address or range  
+- Detect active hosts on the network  
+- Identify open ports using Python’s `socket` programming  
+- Output clean, user-friendly results  
+
+---
+
+## 🛠️ Technologies Used
+- Python  
+- `socket` module  
+- `ipaddress` and `subprocess` libraries  
+
+---
+
+## 📄 Documentation
+Full report and technical details are available in the [Network_Port_Scanner_Report.pdf](./Network_Port_Scanner_Report.pdf).
+
+---
+
+## 🚀 Impact
+- Streamlined early-stage reconnaissance by automating IP and port discovery  
+- Enabled faster and more efficient vulnerability assessments during the internship  
+
+---
+
+Feel free to review the attached report for more details. I welcome feedback and questions!
